@@ -12,6 +12,30 @@ This is a learning project for NSS Cohort 2. They are following along as we writ
 Features:
 ===========
 
+1. Anonymous Users should be able to post articles
+2. Blog visitors should be able to view articles
+3. Blog visitors view paginated aribcle list
+4. Aricles are posted by logged in users (e.g. authors)
+5. Authors can edit and delete aricles
+6. People should be able to comment on aricles
+7. People should be able to reply to comments
+8. Authors can moderate comments on their posts
+9. Authors can upload media
+10. Autohros can use media in their posts
+
+
+
+ToDo/Project State:
+====================
+
+*TODO: All of the things!
+
+
+
+Changelog:
+==========
+
+2013-05-29: Started Project
 
 
 
@@ -19,13 +43,6 @@ Usage:
 ==========
 
 This is a standard rails app.  To run the tests, use 'rake'. To run the app, use 'railes s'.
-
-
-
-
-
-ToDo/Project State:
-====================
 
 
 
